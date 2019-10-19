@@ -3,13 +3,13 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Agustin;Ruel;;;
 FN: Ruel  Agustin 
-ORG:RA Associates;
-TITLE:IT Professional\CIO\ERP Practitioner
-EMAIL;type=INTERNET;type=WORK;type=pref:ragustin@gmail.com
+ORG:Luenthai International Group Ltd. Philippines;
+TITLE:Senior Director Corporate IT
+EMAIL;type=INTERNET;type=WORK;type=pref:ruel_agustin@luenthai.com
 TEL;type=WORK;type=VOICE:+639175431262
 TEL;type=WORK;type=VIBER/WHATSAPP:+639175431262
-item1.ADR;type=WORK;type=pref:;;San Antonio Village\Makati City\,;;;1203;Philippines
+item1.ADR;type=WORK;type=pref:;;Andres Bonifacio Avenue, Clark Freeport, Mabalacat, Pampanga
 item1.X-ABADR:PH
-item2.URL;type=pref:ruelagustin.com
+item2.URL;type=pref:https://www2.luenthai.com/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
